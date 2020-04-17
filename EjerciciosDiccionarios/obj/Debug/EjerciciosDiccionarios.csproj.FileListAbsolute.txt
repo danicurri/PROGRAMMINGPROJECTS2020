@@ -1,0 +1,6 @@
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/obj/Debug/EjerciciosDiccionarios.csprojAssemblyReference.cache
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/bin/Debug/EjerciciosDiccionarios.exe
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/bin/Debug/EjerciciosDiccionarios.pdb
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/obj/Debug/EjerciciosDiccionarios.exe
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/obj/Debug/EjerciciosDiccionarios.pdb
+/Users/danicurri/DAM/PRIMERAÑOREPETICION/PROGRAMACIÓN/TEMA7/EjerciciosDiccionarios/EjerciciosDiccionarios/obj/Debug/EjerciciosDiccionarios.csproj.CoreCompileInputs.cache
