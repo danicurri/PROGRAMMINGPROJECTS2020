@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>INSERCIÓN DE VIVIENDA</h2>
+    <fieldset>   
+    <form action="Eje4.php" method="post"> 
+        
+        Tipo de Vivienda: <select name="vivienda" size="1">
+            <option value="Piso">Piso</option>
+            <option value="Adosado">Adosado</option>
+            <option value="Chalet">Chalet</option>
+            <option value="Casa">Casa</option>
+        </select> <br/><br/>
+        
+        Zona: <select name="zona" size="1">
+            <option value="Centro">Centro</option>
+            <option value="Nervion">Nervion</option>
+            <option value="Triana">Triana</option>
+            <option value="Aljarafe">Aljarafe</option>
+            <option value="Macarena">Macarena</option>
+        </select> <br/><br/>
+        
+        Direccion: <input type="text" name="direccion"> <br/><br/>
+        
+        Número de dormitorios:
+        <INPUT TYPE="radio" NAME="dormitorios" value="1" CHECKED>1
+        <INPUT TYPE="radio" NAME="dormitorios" value="2">2
+        <INPUT TYPE="radio" NAME="dormitorios" value="3">3
+        <INPUT TYPE="radio" NAME="dormitorios" value="4">4
+        <INPUT TYPE="radio" NAME="dormitorios" value="5">5
+        <br><br>
+
+        Precio: <input type="text" name="precio"> <br/><br/>
+        Tamaño: <input type="text" name="tamanyo"> <br/><br/>
+
+        Extras:
+        <INPUT TYPE="checkbox" NAME="extras[]" VALUE="garaje" CHECKED>Garaje
+        <INPUT TYPE="checkbox" NAME="extras[]" VALUE="piscina">Piscina
+        <INPUT TYPE="checkbox" NAME="extras[]" VALUE="jardin">Jardín
+        <br/><br/>
+        
+        Observaciones:<br/>
+        <textarea name="caja" rows="4" cols="50"></textarea>
+
+        <br/><br/>
+        <input id="button" value="Insertar vivienda" name="insertar" type="submit"><br />
+    </form>
+    </fieldset>
+</body>
+</html>
