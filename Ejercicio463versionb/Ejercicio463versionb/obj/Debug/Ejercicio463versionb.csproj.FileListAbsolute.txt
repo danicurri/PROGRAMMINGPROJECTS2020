@@ -1,0 +1,9 @@
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\bin\Debug\Ejercicio463versionb.exe.config
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\bin\Debug\Ejercicio463versionb.exe
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\bin\Debug\Ejercicio463versionb.pdb
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.Form1.resources
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.Properties.Resources.resources
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.csproj.GenerateResource.cache
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.exe
+C:\Users\CRISTINA\Desktop\Ejercicio463versionb\Ejercicio463versionb\obj\Debug\Ejercicio463versionb.pdb
