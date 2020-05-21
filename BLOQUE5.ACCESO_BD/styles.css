@@ -1,0 +1,85 @@
+fieldset{
+    width: 70%;
+    height: 60%;
+    padding: 25px;
+    border: 3px dashed brown;
+    text-align: center;
+    position: fixed;
+    left: 250px;
+    top: 150px;
+    background-color: #dfe3b3;
+}
+
+#mainPage {
+    width: 40%;
+    height: 30%;
+    padding: 25px;
+    border: 3px dashed brown;
+    text-align: center;
+    position: fixed;
+    left: 250px;
+    top: 150px;
+    background-color: #dfe3b3;
+}
+
+h1{
+    color: #578ed9;
+    position: fixed;
+    left: 280px;
+    top: 50px;
+    text-decoration:underline;
+}
+a {
+    font-size: large;
+    font-weight: bold;
+    color: darkblue;
+}
+
+p {
+    color:black;
+    font-size:30px;
+}
+input[type=text], select 
+{
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] 
+{
+    font-size: large;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+}
+
+div {
+    width: 45%;
+    height: 30%;
+    background-color: gold;
+    font-size: 30px;
+    padding: 15px;
+    border: dashed 5px blue;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table {
+    width: 90%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    }
+
+    td, th {
+    text-align: left;
+    padding: 8px;
+    font-size: medium;
+    }
+    ul {list-style: none}
+    li::before {content: "•"; color: red}
